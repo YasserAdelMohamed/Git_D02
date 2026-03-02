@@ -12,5 +12,10 @@ namespace Git_D01
         {
             Console.WriteLine("Hello ITI");
         }
+
+        public void HelloGit()
+        {
+            Console.WriteLine("Hello Git");
+        }
     }
 }
