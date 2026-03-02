@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Git_D01
 {
-    public class HelloITI
+    public class ITIClass
     {
         public void SayHelloITI()
         {
