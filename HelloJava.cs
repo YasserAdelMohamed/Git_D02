@@ -14,9 +14,17 @@ namespace Git_D01
         }
     }
 
+    public class get branch_name
+        {
+
+        public void prinbranch()
+    {
+        Console.WriteLine("from branch 2");
+    }
+}
+
+
    
-
-
 
 
 
