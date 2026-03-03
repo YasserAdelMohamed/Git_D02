@@ -17,5 +17,10 @@ namespace Git_D01
         {
             Console.WriteLine("Hello Git");
         }
+
+        public void Branch1()
+        {
+            Console.WriteLine("Hello From Branch 1");
+        }
     }
 }
